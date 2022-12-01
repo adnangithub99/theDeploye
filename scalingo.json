@@ -1,0 +1,13 @@
+{
+  "name": "The Deployer",
+  "description": "Sid is the best",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/adnangithub99/theDeploye",
+  "env": {
+    "CONFIG_ENV_URL": {
+      "description": "Config file",
+      "value": "1"
+    }
+  },
+  "addons": ["postgresql"]
+}
