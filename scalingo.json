@@ -7,7 +7,7 @@
   "env": {
     "CONFIG_ENV_URL": {
       "description": "Config file",
-      "value": "1"
+      "value": "https://gist.githubusercontent.com/adnansid99/56824d7d656c14f6edeed6c987c1d1ed/raw/config_file_url.env"
     }
   },
   "addons": ["postgresql"]
