@@ -3,6 +3,7 @@
   "description": "Sid is the best",
   "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/adnangithub99/theDeploye",
+  "stack": "container",
   "env": {
     "CONFIG_ENV_URL": {
       "description": "Config file",
